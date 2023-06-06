@@ -49,9 +49,7 @@ This project has no external dependencies.
 It is built using plain HTML, CSS, and JavaScript.
 
 
-[Screencast from 06.06.2023 15:06:40.webm](https://github.com/Sasa405/mouse-trail-move/assets/118745186/4c7f61a6-c15e-4b85-a44e-36f0f3afe2b2)
-
-
+[Screencast from 06.06.2023 15:19:52.webm](https://github.com/Sasa405/mouse-trail-move/assets/118745186/fbe56c6b-a2a1-4989-8820-fe5dc62e5d58)
 
 
 
